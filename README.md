@@ -2,7 +2,7 @@
 
 <br>
 
-![Snake animation](https://github.com/Sneaky1000/Sneaky1000/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Sneaky1000/Sneaky1000/blob/output/github-contribution-grid-snake-dark.svg)
 
 <div align="center" id="user-content-toc">
   <ul align="center">
