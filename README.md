@@ -95,7 +95,7 @@
 <br>
 
 <!--- trophy (start) -->
-<p align="center"> <a style="pointer-events: none" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sneaky1000&layout=compact&theme=tokyonight&column=5&row=1&margin-w=15&margin-h=15" alt="Sneaky1000" /></a> </p>
+<p align="center"> <a style="pointer-events: none" href=""><img src="https://github-profile-trophy.vercel.app/?username=Sneaky1000&layout=compact&theme=tokyonight&column=5&row=1&margin-w=15&margin-h=15" alt="Sneaky1000" /></a> </p>
 </p>        
 <!--- trophy (end) -->
 <!--- stats (end) -->
