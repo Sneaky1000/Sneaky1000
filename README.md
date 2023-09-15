@@ -1,4 +1,9 @@
 [![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://www.chasew.dev)
+
+<br>
+
+![Snake animation](https://github.com/Sneaky1000/Sneaky1000/blob/output/github-contribution-grid-snake.svg)
+
 <div align="center" id="user-content-toc">
   <ul align="center">
     <summary align="center"><h1 align="center" style="border-bottom: none !important; display: inline-block">Hello, I'm Chase Wheeler <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></summary>
