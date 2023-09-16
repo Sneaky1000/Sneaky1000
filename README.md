@@ -28,7 +28,7 @@
 
  🌱 I’m currently learning **Python** & **TensorFlow/PyTorch**
 
- 💬 Ask me about **Node.js, MongoDB, Golang, JavaScript, Linux, Cloud Computing**
+ 💬 Ask me about **Node.js, MongoDB, Go, JS, Linux, Cloud Computing**
 
  📫 Feel free to reach out **cwheeler0204@gmail.com**
 
