@@ -77,8 +77,8 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sneaky1000&theme=blue_navy&show_icons=true&count_private=true" />
+
+  <img align="center" src="https://github-readme-stats-sneaky1000s-projects.vercel.app/api?username=Sneaky1000&theme=blue_navy&show_icons=true&count_private=true" />
 
   <br>
 
