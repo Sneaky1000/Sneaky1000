@@ -26,7 +26,7 @@
 
  🔭 I’m currently working on **[my portfolio website](https://www.chasew.dev)**
 
- 🌱 I’m currently learning **Python** & **TensorFlow/PyTorch**
+ 🌱 I’m currently learning **PyTorch** & **TensorFlow**
 
  💬 Ask me about **Node.js, MongoDB, Go, JS, Linux, Cloud Computing**
 
