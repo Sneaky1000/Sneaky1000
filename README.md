@@ -28,7 +28,7 @@
 
  🌱 I’m currently learning **PyTorch** & **TensorFlow**
 
- 💬 Ask me about **Full-Stack Development, Python, Go, JS/TS, Linux, Cloud Computing**
+ 💬 Ask me about **Full-Stack Development, Python, Go, JS, Linux, Cloud Computing**
 
  📫 Feel free to reach out **cwheeler0204@gmail.com**
 
